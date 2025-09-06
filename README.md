@@ -1,4 +1,4 @@
-<img width="500" height="28" alt="image" src="https://github.com/user-attachments/assets/0b6ce644-4573-4ef0-a167-b86d8f30170c" /># Hi, I'm Vineeth 👋
+# Hi, I'm Vineeth 👋
 🚀 Java Developer | 5.4+ years experience in backend development
 
 ## Skills

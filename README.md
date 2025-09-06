@@ -75,7 +75,7 @@
 ---
 
 ## 🎓 Education  
-🎓 **B.E., Computer Science Engineering** – NMAM Institute of Technology, Nitte (2019)  
+🎓 **Bachelor of Engineering** – NMAM Institute of Technology, Nitte (2019)  
 🏫 **Pre-University Education** – Alvas PU College, Moodbidri (2015)  
 📘 **SSLC** – Rotary English Medium School, Moodbidri (2013)  
 

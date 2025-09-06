@@ -33,7 +33,7 @@
 
 ## 🌟 Professional Summary  
 💻 Java Developer with **5+ years** of experience in designing, developing, and deploying enterprise applications.  
-⚡ Proficient in **Java, Spring Boot, Microservices, REST APIs**, and modern DevOps practices.  
+⚡ Proficient in **Java, Spring Boot, Microservices, REST APIs** and modern DevOps practices.  
 🏅 Recognized multiple times at DXC Technology for impactful contributions to **large-scale modernization projects**.  
 🚀 Passionate about building **scalable, secure, and high-performance solutions**.  
 

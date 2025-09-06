@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vineeth-hegde/vineeth-hegde.github.io/blob/main/Vineeth-removebg-preview.jpg" 
+  <img src="https://raw.githubusercontent.com/vineeth-hegde/vineeth-hegde.github.io/main/Vineeth-removebg-preview.jpg" 
        alt="Vineeth Hegde" 
        width="200" 
        style="border-radius:50%; border: 4px solid #2e4053; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);">

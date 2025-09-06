@@ -76,8 +76,8 @@ Java Developer with 5+ years of experience in designing, developing, and deployi
 ---
 
 ## 📜 Certifications  
-- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.credly.com/badges/52ffe432-de0a-46b9-86d2-ebc7e65fee01)  
-- [AWS Certified: Cloud Practitioner](https://www.credly.com/earner/earned/badge/fafda2e1-12fd-4949-8c0f-f76b03c57c92)  
+- **Microsoft Certified:** [Azure Fundamentals (AZ-900)](https://www.credly.com/badges/52ffe432-de0a-46b9-86d2-ebc7e65fee01)  
+- **AWS Certified:** [Cloud Practitioner (CLF-C02)](https://www.credly.com/earner/earned/badge/fafda2e1-12fd-4949-8c0f-f76b03c57c92)  
 
 
 ---

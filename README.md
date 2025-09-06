@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Vineeth-removebg-preview.jpg" 
+  <img src="Vineeth-Hegde.jpg" 
        alt="Vineeth Hegde" 
        width="200" 
        style="border-radius:50%; border: 4px solid #2e4053; box-shadow: 0px 4px 15px rgba(0,0,0,0.3);">

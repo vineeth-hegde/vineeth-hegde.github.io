@@ -2,6 +2,7 @@
   <img src="Vineeth-removebg-preview.jpg" alt="Vineeth Hegde" width="200" style="border-radius:50%">
 </p>
 # Hi, I'm Vineeth 👋  
+
 🚀 Java Developer | 5.4+ years of experience in backend development  
 
 ---
